@@ -63,7 +63,9 @@
 6. [C/C++](https://cplusplus.com)
 7. [Rust](https://www.rust-lang.org)
 
-## Programming language specific frameworks/engines
+## Programming frameworks/engines
+
+Το μέρος της λίστας που προορίζεται για τους nerds.
 
 ### Python
 
@@ -72,8 +74,33 @@
 * [Ursina](https://www.ursinaengine.org)
 * [Panda3D](https://www.panda3d.org)
 * [UPBGE](https://upbge.org/#)
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
 
 ### Lua
 
 * [LÖVE](https://love2d.org)
 * [Defold](https://defold.com)
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+
+### C#
+
+* [MonoGame](https://www.monogame.net)
+* [Stride](https://www.stride3d.net)
+* [Unity](https://unity.com)
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+
+### Nim
+
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+
+### D
+
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+
+### C/C++
+
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+
+### Rust
+
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
