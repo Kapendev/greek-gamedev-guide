@@ -13,13 +13,13 @@
 Τα παρακάτω προγράμματα ταξινομούνται
 από φιλικά μέχρι μη-φιλικά για αρχάριους.
 
-1. [Ren'Py](https://www.renpy.org)
-2. [RPG Maker](https://www.rpgmakerweb.com)
-3. [GDevelop](https://gdevelop.io)
-4. [Roblox Studio](https://www.roblox.com/create)
-5. [Godot](https://godotengine.org)
-6. [Unreal Engine](https://www.unrealengine.com)
-7. [Unity](https://unity.com)
+1. [Ren'Py](https://www.renpy.org) «Θέλω να κάνω visual novels.»
+2. [RPG Maker](https://www.rpgmakerweb.com) «Θέλω να κάνω retro RPGs.»
+3. [GDevelop](https://gdevelop.io) «Θέλω να κάνω ένα απλό 2D παιχνίδι.»
+4. [Roblox Studio](https://www.roblox.com/create) «Θέλω να κάνω ένα απλό 3D παιχνίδι.»
+5. [Godot](https://godotengine.org) «Θέλω να κάνω ένα 2D/3D παιχνίδι.»
+6. [Unreal Engine](https://www.unrealengine.com) «Θέλω να κάνω ένα 3D παιχνίδι.»
+7. [Unity](https://unity.com) «Θέλω να κάνω ένα 2D/3D παιχνίδι.»
 
 ## Free game assets sites
 
