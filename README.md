@@ -59,9 +59,10 @@
 2. [Lua](https://www.lua.org)
 3. [C#](https://visualstudio.microsoft.com)
 4. [Nim](https://nim-lang.org)
-5. [D](https://dlang.org)
-6. [C/C++](https://cplusplus.com)
-7. [Rust](https://www.rust-lang.org)
+5. [Haxe](https://haxe.org)
+6. [D](https://dlang.org)
+7. [C/C++](https://cplusplus.com)
+8. [Rust](https://www.rust-lang.org)
 
 ## Programming frameworks/engines
 
@@ -73,34 +74,57 @@
 * [Python Arcade](https://api.arcade.academy/en/latest)
 * [Ursina](https://www.ursinaengine.org)
 * [Panda3D](https://www.panda3d.org)
-* [UPBGE](https://upbge.org/#)
 * [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [SDL](https://github.com/py-sdl/py-sdl2)
+* [UPBGE](https://upbge.org/#)
 
 ### Lua
 
 * [LÖVE](https://love2d.org)
-* [Defold](https://defold.com)
 * [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [SDL](https://github.com/Tangent128/luasdl2)
+* [Defold](https://defold.com)
 
 ### C#
 
 * [MonoGame](https://www.monogame.net)
+* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [SDL](https://github.com/flibitijibibo/SDL2-CS)
 * [Stride](https://www.stride3d.net)
 * [Unity](https://unity.com)
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
 
 ### Nim
 
+* [NICO](https://github.com/ftsf/nico)
 * [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [SDL](https://github.com/nim-lang/sdl2)
+* [Godot 3](https://github.com/pragmagic/godot-nim)
+* [Unreal Engine](https://github.com/jmgomez/NimForUE)
+
+### Haxe
+
+* [OpenFL](https://www.openfl.org)
+* [HaxeFlixel](https://haxeflixel.com)
+* [Heaps.io](https://heaps.io)
+* [Kha](https://kha.tech)
+* [Armory](https://armory3d.org)
 
 ### D
 
 * [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [SDL](https://github.com/DerelictOrg/DerelictSDL2)
 
 ### C/C++
 
 * [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [Allegro](https://liballeg.org)
+* [SFML](https://www.sfml-dev.org)
+* [SDL](https://www.libsdl.org)
 
 ### Rust
 
 * [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+* [SDL](https://github.com/Rust-SDL2/rust-sdl2)
+* [Bevy](https://bevyengine.org)
+* [Macroquad](https://macroquad.rs)
+* [ggez](https://ggez.rs)
