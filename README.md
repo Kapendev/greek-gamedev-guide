@@ -1,9 +1,15 @@
 # Οδηγός δημιουργίας ψηφιακών παιχνιδιών
 
-Αυτή είναι μια WIP λίστα με εργαλεία
-που σχετίζονται με την ανάπτυξη ψηφιακών παιχνιδιών.
-Η λίστα αποσκοπεί στο να αποτελέσει ένα απλό σημείο εκκίνησης
+Η δημιουργία ψηφιακών παιχνιδιών, όπως και άλλες καλλιτεχνικές δραστηριότητες, αποτελεί μέσο έκφρασης.
+Ένα ιδιαίτερο χαρακτηριστικό της ωστόσο είναι η αρχική δυσκολία της.
+Η πρώτη επαφή με αυτόν τον χώρο προκαλεί συχνά σύγχυση
+λόγω του πλήθους των επιλογών που έχει κάποιος για να φτιάξει ένα παιχνίδι.
+Αυτή η λίστα προσπαθεί να κάνει αυτή την πρώτη επαφή ελαφρώς ευκολότερη.
+
+Η λίστα περιέχει εργαλεία που σχετίζονται με την ανάπτυξη ψηφιακών παιχνιδιών
+και αποσκοπεί στο να αποτελέσει ένα απλό σημείο εκκίνησης
 για άτομα που δεν έχουν ιδέα από που να ξεκινήσουν.
+Τα ακόλουθα εργαλεία επιλέχθηκαν με βάση την δημοφιλία τους και τη χρηστικότητα τους.
 
 ## Game engines
 
@@ -13,14 +19,22 @@
 Τα παρακάτω προγράμματα ταξινομούνται
 από φιλικά μέχρι μη-φιλικά για αρχάριους.
 
-1. [Ren'Py](https://www.renpy.org)                                «Θέλω να κάνω visual novels.»
-2. [RPG Maker](https://www.rpgmakerweb.com)                       «Θέλω να κάνω retro RPGs.»
-3. [Adventure Game Studio](https://www.adventuregamestudio.co.uk) «θέλω να κάνω adventure games»
-4. [GDevelop](https://gdevelop.io)                                «Θέλω να κάνω απλά 2D παιχνίδια.»
-5. [Roblox Studio](https://www.roblox.com/create)                 «Θέλω να κάνω απλά 3D παιχνίδια.»
-6. [Godot](https://godotengine.org)                               «Θέλω να κάνω 2D/3D παιχνίδια.»
-7. [Unreal Engine](https://www.unrealengine.com)                  «Θέλω να κάνω 3D παιχνίδια.»
-8. [Unity](https://unity.com)                                     «Θέλω να κάνω 2D/3D παιχνίδια.»
+1. [Ren'Py](https://www.renpy.org)
+«Θέλω να κάνω visual novels.»
+2. [RPG Maker](https://www.rpgmakerweb.com)
+«Θέλω να κάνω retro RPGs.»
+3. [Adventure Game Studio](https://www.adventuregamestudio.co.uk)
+«Θέλω να κάνω adventure games»
+4. [GDevelop](https://gdevelop.io)
+«Θέλω να κάνω απλά 2D παιχνίδια.»
+5. [Roblox Studio](https://www.roblox.com/create)
+«Θέλω να κάνω απλά 3D παιχνίδια.»
+6. [Godot](https://godotengine.org)
+«Θέλω να κάνω 2D/3D παιχνίδια.»
+7. [Unreal Engine](https://www.unrealengine.com)
+«Θέλω να κάνω 3D παιχνίδια.»
+8. [Unity](https://unity.com)
+«Θέλω να κάνω 2D/3D παιχνίδια.»
 
 ## Free game assets sites
 
@@ -64,68 +78,3 @@
 6. [D](https://dlang.org)
 7. [C/C++](https://cplusplus.com)
 8. [Rust](https://www.rust-lang.org)
-
-## Programming frameworks/engines
-
-Το μέρος της λίστας που προορίζεται για τους nerds.
-
-### Python
-
-* [Pygame](https://www.pygame.org/news)
-* [Python Arcade](https://api.arcade.academy/en/latest)
-* [Ursina](https://www.ursinaengine.org)
-* [Panda3D](https://www.panda3d.org)
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [SDL](https://github.com/py-sdl/py-sdl2)
-* [UPBGE](https://upbge.org/#)
-
-### Lua
-
-* [LÖVE](https://love2d.org)
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [SDL](https://github.com/Tangent128/luasdl2)
-* [Defold](https://defold.com)
-
-### C#
-
-* [MonoGame](https://www.monogame.net)
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [SDL](https://github.com/flibitijibibo/SDL2-CS)
-* [Stride](https://www.stride3d.net)
-* [Unity](https://unity.com)
-
-### Nim
-
-* [NICO](https://github.com/ftsf/nico)
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [SDL](https://github.com/nim-lang/sdl2)
-* [Godot 3](https://github.com/pragmagic/godot-nim)
-* [Unreal Engine](https://github.com/jmgomez/NimForUE)
-
-### Haxe
-
-* [OpenFL](https://www.openfl.org)
-* [HaxeFlixel](https://haxeflixel.com)
-* [Heaps.io](https://heaps.io)
-* [Kha](https://kha.tech)
-* [Armory](https://armory3d.org)
-
-### D
-
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [SDL](https://github.com/DerelictOrg/DerelictSDL2)
-
-### C/C++
-
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [Allegro](https://liballeg.org)
-* [SFML](https://www.sfml-dev.org)
-* [SDL](https://www.libsdl.org)
-
-### Rust
-
-* [Raylib](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-* [SDL](https://github.com/Rust-SDL2/rust-sdl2)
-* [Bevy](https://bevyengine.org)
-* [Macroquad](https://macroquad.rs)
-* [ggez](https://ggez.rs)
