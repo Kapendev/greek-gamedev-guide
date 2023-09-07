@@ -24,15 +24,15 @@
 2. [RPG Maker](https://www.rpgmakerweb.com)
 «Θέλω να κάνω retro RPGs.»
 3. [Adventure Game Studio](https://www.adventuregamestudio.co.uk)
-«Θέλω να κάνω adventure games»
+«Θέλω να κάνω adventure games.»
 4. [GDevelop](https://gdevelop.io)
 «Θέλω να κάνω απλά 2D παιχνίδια.»
 5. [Roblox Studio](https://www.roblox.com/create)
 «Θέλω να κάνω απλά 3D παιχνίδια.»
-6. [Godot](https://godotengine.org)
-«Θέλω να κάνω 2D/3D παιχνίδια.»
-7. [Unreal Engine](https://www.unrealengine.com)
+6. [Unreal Engine](https://www.unrealengine.com)
 «Θέλω να κάνω 3D παιχνίδια.»
+7. [Godot](https://godotengine.org)
+«Θέλω να κάνω 2D/3D παιχνίδια.»
 8. [Unity](https://unity.com)
 «Θέλω να κάνω 2D/3D παιχνίδια.»
 
@@ -55,10 +55,11 @@
 Οι παρακάτω τύποι ταξινομούνται
 από φιλικούς μέχρι μη-φιλικούς για αρχάριους.
 
-1. [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
-2. [JSON](https://en.wikipedia.org/wiki/JSON)
-3. [YAML](https://en.wikipedia.org/wiki/YAML)
-4. [Dhall](https://dhall-lang.org)
+1. [ΙΝΙ](https://en.wikipedia.org/wiki/INI_file)
+2. [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+3. [JSON](https://en.wikipedia.org/wiki/JSON)
+4. [YAML](https://en.wikipedia.org/wiki/YAML)
+5. [Dhall](https://dhall-lang.org)
 
 ## Programming languages
 
@@ -73,8 +74,8 @@
 1. [Python](https://www.python.org)
 2. [Lua](https://www.lua.org)
 3. [C#](https://visualstudio.microsoft.com)
-4. [Nim](https://nim-lang.org)
 5. [Haxe](https://haxe.org)
+4. [Nim](https://nim-lang.org)
 6. [D](https://dlang.org)
 7. [C/C++](https://cplusplus.com)
 8. [Rust](https://www.rust-lang.org)
