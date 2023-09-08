@@ -16,8 +16,7 @@
 Οι μηχανές παιχνιδιών είναι προγράμματα
 σχεδιασμένα κυρίως για την ανάπτυξη ψηφιακών παιχνιδιών
 και αποτελούν συνήθως το σημαντικότερο μέρος ενός παιχνιδιού.
-Τα παρακάτω προγράμματα ταξινομούνται
-από φιλικά μέχρι μη-φιλικά για αρχάριους.
+Τα παρακάτω προγράμματα ταξινομούνται από φιλικά μέχρι μη-φιλικά για αρχάριους.
 
 1. [Ren'Py](https://www.renpy.org)
 «Θέλω να κάνω visual novels.»
@@ -38,10 +37,8 @@
 
 ## Free game assets sites
 
-Αυτές οι ιστοσελίδες παρέχουν
-δωρεάν εικόνες, μουσική, ...,
-τα οποία μπορούν να χρησιμοποιηθούν
-για τη δημιουργία ενός παιχνιδιού.
+Αυτές οι ιστοσελίδες παρέχουν δωρεάν μουσική, εικόνες, ...,
+τα οποία μπορούν να χρησιμοποιηθούν για τη δημιουργία ενός παιχνιδιού.
 
 * [OpenGameArt](https://opengameart.org)
 * [Kenney](https://www.kenney.nl)
@@ -49,27 +46,21 @@
 
 ## Configuration file formats
 
-Αυτοί οι τύποι αρχείων αναπαριστούν
-σύνθετες δομές δεδομένων
+Αυτοί οι τύποι αρχείων αναπαριστούν σύνθετες δομές δεδομένων
 με τρόπο που μπορεί εύκολα να αποθηκευτεί και να διαβαστεί.
-Οι παρακάτω τύποι ταξινομούνται
-από φιλικούς μέχρι μη-φιλικούς για αρχάριους.
 
-1. [ΙΝΙ](https://en.wikipedia.org/wiki/INI_file)
-2. [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
-3. [JSON](https://en.wikipedia.org/wiki/JSON)
-4. [YAML](https://en.wikipedia.org/wiki/YAML)
-5. [Dhall](https://dhall-lang.org)
+* [ΙΝΙ](https://en.wikipedia.org/wiki/INI_file)
+* [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+* [JSON](https://en.wikipedia.org/wiki/JSON)
+* [YAML](https://en.wikipedia.org/wiki/YAML)
+* [Dhall](https://dhall-lang.org)
 
 ## Programming languages
 
-Οι γλώσσες προγραμματισμού χρησιμοποιούνται
-για διάφορα πράγματα.
-Στην gamedev κοινότητα χρησιμοποιούνται
-συνήθως για την αυτοματοποίηση «βαρετών» πραγμάτων
+Οι γλώσσες προγραμματισμού χρησιμοποιούνται για διάφορα πράγματα.
+Συνήθως χρησιμοποιούνται για την αυτοματοποίηση «βαρετών» πραγμάτων
 ή για τον καθορισμό της συμπεριφοράς των συστημάτων ενός παιχνιδιού.
-Οι παρακάτω γλώσσες ταξινομούνται
-από φιλικές μέχρι μη-φιλικές για αρχάριους.
+Οι παρακάτω γλώσσες ταξινομούνται από φιλικές μέχρι μη-φιλικές για αρχάριους.
 
 1. [Python](https://www.python.org)
 2. [Lua](https://www.lua.org)
@@ -79,3 +70,16 @@
 6. [D](https://dlang.org)
 7. [C/C++](https://cplusplus.com)
 8. [Rust](https://www.rust-lang.org)
+
+## Programming language game libraries
+
+TODO(AlexandrosKap): Add some text here.
+
+* Python: [Arcade](https://github.com/pythonarcade/arcade)
+* Lua: [LÖVE](https://github.com/love2d/love)
+* C#: [MonoGame](https://github.com/MonoGame/MonoGame)
+* Haxe: [HaxeFlixel](https://github.com/HaxeFlixel/flixel)
+* Nim: [Naylib](https://github.com/planetis-m/naylib)
+* D: [raylib-d](https://github.com/schveiguy/raylib-d)
+* C/C++: [raylib](https://github.com/raysan5/raylib)
+* Rust: [Macroquad](https://github.com/not-fl3/macroquad)
