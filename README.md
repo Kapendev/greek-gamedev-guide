@@ -54,4 +54,3 @@
 3. [D](https://dlang.org/)
 4. [Nim](https://nim-lang.org/)
 5. [C/C++](https://en.cppreference.com/w/)
-6. [Rust](https://www.rust-lang.org/)
