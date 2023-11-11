@@ -29,10 +29,11 @@
 το οποίο μπορεί να χρησιμοποιηθεί για τη δημιουργία ενός ψηφιακού παιχνιδιού.
 
 * [OpenGameArt](https://opengameart.org/)
+* [Itch.io](https://itch.io/game-assets)
 * [Kenney](https://www.kenney.nl/)
 * [Freesound](https://freesound.org/)
 
-## Αρχεία διαμόρφωσής
+## Αρχεία διαμόρφωσης
 
 Αυτοί οι τύποι αρχείων αναπαριστούν σύνθετες δομές δεδομένων
 με τρόπο που μπορεί εύκολα να αποθηκευτεί και να διαβαστεί από ένα ψηφιακό παιχνίδι.
@@ -54,3 +55,9 @@
 3. [D](https://dlang.org/)
 4. [Nim](https://nim-lang.org/)
 5. [C/C++](https://en.cppreference.com/w/)
+
+## Ελληνικά game development YouTube κανάλια
+
+* [AlexandrosKap](https://youtube.com/@AlexandrosKap_?si=4lrerabWtXm0p3A1)
+* [Kitsomo](https://youtube.com/@Kitsomo?si=ffS6tkUb--JTIgTx)
+* [Game Developers Association of Greece](https://youtube.com/@gamedevelopersassociationo866?si=awDqWFUfbZKP5ZXv)
