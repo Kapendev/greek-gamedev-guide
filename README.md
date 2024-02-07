@@ -1,37 +1,30 @@
 # Οδηγός δημιουργίας ψηφιακών παιχνιδιών
 
 Ένα ιδιαίτερο χαρακτηριστικό της δημιουργία ψηφιακών παιχνιδιών είναι η αρχική δυσκολία της.
-Η πρώτη επαφή με αυτόν τον χώρο προκαλεί συχνά σύγχυση
-λόγω του πλήθους των επιλογών που έχει κάποιος για να φτιάξει ένα παιχνίδι.
+Η πρώτη επαφή με αυτόν τον χώρο προκαλεί συχνά σύγχυση λόγω του πλήθους των επιλογών που έχει κάποιος για να φτιάξει ένα παιχνίδι.
 Αυτός ο οδηγός προσπαθεί να κάνει αυτή την πρώτη επαφή ελαφρώς ευκολότερη.
-
-Ο οδηγός περιέχει εργαλεία που σχετίζονται με την ανάπτυξη ψηφιακών παιχνιδιών
-και αποσκοπεί στο να αποτελέσει ένα απλό σημείο εκκίνησης
-για άτομα που δεν έχουν ιδέα από που να ξεκινήσουν.
-Τα ακόλουθα εργαλεία επιλέχθηκαν με βάση την δημοφιλία τους και τη χρηστικότητα τους.
+Ο οδηγός περιέχει εργαλεία που σχετίζονται με την ανάπτυξη ψηφιακών παιχνιδιών και αποσκοπεί στο να αποτελέσει ένα απλό σημείο εκκίνησης.
 
 ## Μηχανές παιχνιδιών
 
-Οι μηχανές παιχνιδιών είναι προγράμματα
-σχεδιασμένα κυρίως για την ανάπτυξη ψηφιακών παιχνιδιών
+Οι μηχανές παιχνιδιών είναι προγράμματα σχεδιασμένα κυρίως για την ανάπτυξη ψηφιακών παιχνιδιών
 και αποτελούν το σημαντικότερο μέρος ενός παιχνιδιού.
-Τα παρακάτω προγράμματα ταξινομούνται από φιλικά μέχρι μη-φιλικά για αρχάριους.
 
-1. [Ren'Py](https://www.renpy.org/)
-2. [Adventure Game Studio](https://www.adventuregamestudio.co.uk/)
-3. [GDevelop](https://gdevelop.io/)
-4. [Godot](https://godotengine.org/)
-5. [Unreal Engine](https://www.unrealengine.com/en-US)
+* [Godot](https://godotengine.org/)
+* [Unity](https://unity.com/)
+* [Unreal](https://www.unrealengine.com/en-US)
+* [GameMaker](https://gamemaker.io/en)
+* [Ren'Py](https://www.renpy.org/)
 
 ## Οπτικοακουστικό υλικό
 
 Οι παρακάτω ιστοσελίδες παρέχουν δωρεάν οπτικοακουστικό υλικό
-το οποίο μπορεί να χρησιμοποιηθεί για τη δημιουργία ενός ψηφιακού παιχνιδιού.
+το οποίο μπορεί να χρησιμοποιηθεί για τη δημιουργία ψηφιακών παιχνιδιών.
 
 * [OpenGameArt](https://opengameart.org/)
-* [Itch.io](https://itch.io/game-assets)
-* [Kenney](https://www.kenney.nl/)
 * [Freesound](https://freesound.org/)
+* [Kenney](https://www.kenney.nl/)
+* [itch.io](https://itch.io/game-assets)
 
 ## Αρχεία διαμόρφωσης
 
@@ -44,20 +37,10 @@
 * [YAML](https://en.wikipedia.org/wiki/YAML)
 * [Dhall](https://dhall-lang.org/)
 
-## Γλώσσες προγραμματισμού
+## Ελληνικά game dev κανάλια στο YouTube
 
-Οι γλώσσες προγραμματισμού χρησιμοποιούνται για διάφορα πράγματα
-και ένα από αυτά είναι η ανάπτυξη ψηφιακών παιχνιδιών.
-Οι παρακάτω γλώσσες ταξινομούνται από φιλικές μέχρι μη-φιλικές για αρχάριους.
-
-1. [Python](https://www.python.org/)
-2. [C#](https://visualstudio.microsoft.com/)
-3. [D](https://dlang.org/)
-4. [Nim](https://nim-lang.org/)
-5. [C/C++](https://en.cppreference.com/w/)
-
-## Ελληνικά game development YouTube κανάλια
-
-* [AlexandrosKap](https://youtube.com/@AlexandrosKap_?si=4lrerabWtXm0p3A1)
-* [Kitsomo](https://youtube.com/@Kitsomo?si=ffS6tkUb--JTIgTx)
+* [AlexandrosKap_](https://youtube.com/@AlexandrosKap_?si=4lrerabWtXm0p3A1)
+* [A Greek Dev](https://www.youtube.com/@a_greek_dev)
 * [Game Developers Association of Greece](https://youtube.com/@gamedevelopersassociationo866?si=awDqWFUfbZKP5ZXv)
+* [Kiwinauts](https://www.youtube.com/@wearethekiwinauts)
+* [Kitsomo](https://youtube.com/@Kitsomo?si=ffS6tkUb--JTIgTx)
