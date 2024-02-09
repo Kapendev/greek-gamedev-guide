@@ -10,11 +10,12 @@
 Οι μηχανές παιχνιδιών είναι προγράμματα σχεδιασμένα κυρίως για την ανάπτυξη ψηφιακών παιχνιδιών
 και αποτελούν το σημαντικότερο μέρος ενός παιχνιδιού.
 
-* [Godot](https://godotengine.org/)
-* [Unity](https://unity.com/)
-* [Unreal](https://www.unrealengine.com/en-US)
-* [GameMaker](https://gamemaker.io/en)
-* [Ren'Py](https://www.renpy.org/)
+* [Defold](https://defold.com/) - [Tutorial](https://youtu.be/Ri2KStY-mfE?si=b0rsSW_WBq_mX742)
+* [Godot](https://godotengine.org/) - [Tutorial](https://youtu.be/pBoXqW4RykE?si=50okFLMp1us4EGwP)
+* [Ren'Py](https://www.renpy.org/) - [Tutorial](https://youtu.be/C3Ldd-5PKCw?si=IAYPjq_vks-bfBo1)
+* [Unity](https://unity.com/) - [Tutorial](https://youtu.be/XtQMytORBmM?si=piFWN3EBLNBbIlMX)
+* [Unreal](https://www.unrealengine.com/en-US) - [Tutorial](https://youtu.be/k-zMkzmduqI?si=ezDHAokNZVx-0K6u)
+* [GameMaker](https://gamemaker.io/en) - [Tutorial](https://youtu.be/nBCDzE9MDbk?si=BgJTOFqQzFoQ4Uqd)
 
 ## Οπτικοακουστικό υλικό
 
