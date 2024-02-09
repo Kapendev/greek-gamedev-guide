@@ -11,7 +11,7 @@
 και αποτελούν το σημαντικότερο μέρος ενός παιχνιδιού.
 
 * [Defold](https://defold.com/) - [Tutorial](https://youtu.be/Ri2KStY-mfE?si=b0rsSW_WBq_mX742)
-* [Godot](https://godotengine.org/) - [Tutorial](https://youtu.be/pBoXqW4RykE?si=50okFLMp1us4EGwP)
+* [Godot](https://godotengine.org/) - [Tutorial](https://youtu.be/S8lMTwSRoRg?si=NBxWnm6Uq9Hz7JMX)
 * [Ren'Py](https://www.renpy.org/) - [Tutorial](https://youtu.be/C3Ldd-5PKCw?si=IAYPjq_vks-bfBo1)
 * [Unity](https://unity.com/) - [Tutorial](https://youtu.be/XtQMytORBmM?si=piFWN3EBLNBbIlMX)
 * [Unreal](https://www.unrealengine.com/en-US) - [Tutorial](https://youtu.be/nvruYLgjKkk?si=BgGhMlXytGk8d9Nc)
@@ -45,9 +45,21 @@
 
 * [Python](https://www.python.org/) - [Tutorial](https://youtu.be/rfscVS0vtbw?si=cfLsGVGiqCjZSK7e)
 * [Lua](https://www.lua.org/) - [Tutorial](https://youtu.be/iMacxZQMPXs?si=wz-g8Jw7rEa58e-R)
+* [C#](https://dotnet.microsoft.com/en-us/languages/csharp) - [Tutorial](https://youtu.be/M5ugY7fWydE?si=XE7oHm4x3di7dcy6)
 * [C/C++](https://en.cppreference.com/w/c/language) - [Tutorial](https://youtu.be/LGOgNqkRMs0?si=60u573XNlxOFlTay)
 * [D](https://dlang.org/) - [Tutorial](https://youtu.be/SpaBnkUHHuI?si=QbmtlHLzVY3gCcQa)
 * [Rust](https://www.rust-lang.org/) - [Tutorial](https://youtu.be/ygL_xcavzQ4?si=hBQfmtK6ane16k9r)
+
+Σχεδόν όλες οι γλώσσες προγραμματισμού έχουν τη δυνατότητα να χρησιμοποιηθούν για τη δημιουργία ψηφιακών παιχνιδιών.
+Ορισμένες από αυτές τις γλώσσες μπορούν ακόμη και να είναι συμβατές με τις προαναφερόμενες μηχανές παιχνιδιών.
+Σε περιπτώσεις όπου δεν υπάρχει διαθέσιμη μηχανή παιχνιδιών, μια βιβλιοθήκη μπορεί να αποτελέσει μια καλή εναλλακτική λύση.
+
+* [Pygame](https://www.pygame.org/wiki/GettingStarted) - [Tutorial](https://youtu.be/FfWpgLFMI7w?si=XmRIXNgXPRx80PLS)
+* [LÖVE](https://love2d.org/) - [Tutorial](https://youtu.be/I549C6SmUnk?si=yB_t-421DEY7ZQuq)
+* [MonoGame](https://monogame.net/) - [Tutorial](https://youtu.be/sPH-sNTSrhw?si=HTGKAFq0tUK4NU7y)
+* [raylib](https://www.raylib.com/) - [Tutorial](https://youtu.be/-F6THkPkF2I?si=CUISsiIYMR_MjG1H)
+* [Allegro](https://liballeg.org/) - [Tutorial](https://youtu.be/9Miq1KpK4ec?si=dxoyh82BLt3uaP3_)
+* [SDL](https://www.libsdl.org/) - [Tutorial](https://youtu.be/QM4WW8hcsPU?si=K3DoVxDXth2Wh21e)
 
 ## Ελληνικά game dev κανάλια στο YouTube
 
