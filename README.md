@@ -14,7 +14,7 @@
 * [Godot](https://godotengine.org/) - [Tutorial](https://youtu.be/pBoXqW4RykE?si=50okFLMp1us4EGwP)
 * [Ren'Py](https://www.renpy.org/) - [Tutorial](https://youtu.be/C3Ldd-5PKCw?si=IAYPjq_vks-bfBo1)
 * [Unity](https://unity.com/) - [Tutorial](https://youtu.be/XtQMytORBmM?si=piFWN3EBLNBbIlMX)
-* [Unreal](https://www.unrealengine.com/en-US) - [Tutorial](https://youtu.be/k-zMkzmduqI?si=ezDHAokNZVx-0K6u)
+* [Unreal](https://www.unrealengine.com/en-US) - [Tutorial](https://youtu.be/nvruYLgjKkk?si=BgGhMlXytGk8d9Nc)
 * [GameMaker](https://gamemaker.io/en) - [Tutorial](https://youtu.be/nBCDzE9MDbk?si=BgJTOFqQzFoQ4Uqd)
 
 ## Οπτικοακουστικό υλικό
@@ -37,6 +37,17 @@
 * [JSON](https://en.wikipedia.org/wiki/JSON)
 * [YAML](https://en.wikipedia.org/wiki/YAML)
 * [Dhall](https://dhall-lang.org/)
+
+## Γλώσσες προγραμματισμού
+
+Οι γλώσσες προγραμματισμού χρησιμοποιούνται για να διευκολύνουν την οργάνωση και διαχείριση πληροφοριών,
+αλλά και για την ακριβή διατύπωση αλγορίθμων.
+
+* [Python](https://www.python.org/) - [Tutorial](https://youtu.be/rfscVS0vtbw?si=cfLsGVGiqCjZSK7e)
+* [Lua](https://www.lua.org/) - [Tutorial](https://youtu.be/iMacxZQMPXs?si=wz-g8Jw7rEa58e-R)
+* [C/C++](https://en.cppreference.com/w/c/language) - [Tutorial](https://youtu.be/LGOgNqkRMs0?si=60u573XNlxOFlTay)
+* [D](https://dlang.org/) - [Tutorial](https://youtu.be/SpaBnkUHHuI?si=QbmtlHLzVY3gCcQa)
+* [Rust](https://www.rust-lang.org/) - [Tutorial](https://youtu.be/ygL_xcavzQ4?si=hBQfmtK6ane16k9r)
 
 ## Ελληνικά game dev κανάλια στο YouTube
 
