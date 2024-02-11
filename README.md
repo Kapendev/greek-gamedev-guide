@@ -26,6 +26,7 @@
 * [Freesound](https://freesound.org/)
 * [Kenney](https://www.kenney.nl/)
 * [itch.io](https://itch.io/game-assets)
+* [DOVA-SYNDROME](https://dova-s.jp/EN/)
 
 ## Αρχεία διαμόρφωσης
 
@@ -48,6 +49,7 @@
 * [C#](https://dotnet.microsoft.com/en-us/languages/csharp) - [Tutorial](https://youtu.be/M5ugY7fWydE?si=XE7oHm4x3di7dcy6)
 * [C/C++](https://en.cppreference.com/w/c/language) - [Tutorial](https://youtu.be/LGOgNqkRMs0?si=60u573XNlxOFlTay)
 * [D](https://dlang.org/) - [Tutorial](https://youtu.be/SpaBnkUHHuI?si=QbmtlHLzVY3gCcQa)
+* [Nim](https://nim-lang.org/) - [Tutorial](https://youtu.be/5tVIsDYPClA?si=ztB3-DUh-cJy_slR)
 * [Rust](https://www.rust-lang.org/) - [Tutorial](https://youtu.be/ygL_xcavzQ4?si=hBQfmtK6ane16k9r)
 
 Σχεδόν όλες οι γλώσσες προγραμματισμού έχουν τη δυνατότητα να χρησιμοποιηθούν για τη δημιουργία ψηφιακών παιχνιδιών.
