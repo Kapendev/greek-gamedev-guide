@@ -65,7 +65,7 @@
 
 ## Ελληνικά game dev κανάλια στο YouTube
 
-* [AlexandrosKap_](https://youtube.com/@AlexandrosKap_?si=4lrerabWtXm0p3A1)
+* [Kapendev](https://youtube.com/@Kapendev?si=FgvNxnieMahVozkv)
 * [A Greek Dev](https://www.youtube.com/@a_greek_dev)
 * [Game Developers Association of Greece](https://youtube.com/@gamedevelopersassociationo866?si=awDqWFUfbZKP5ZXv)
 * [Kiwinauts](https://www.youtube.com/@wearethekiwinauts)
