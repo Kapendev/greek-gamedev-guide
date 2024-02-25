@@ -13,6 +13,15 @@ wad
 w
 dw
 
+
+
+d
+w
+da
+d
+w
+d
+w
 wd
 w
 d
