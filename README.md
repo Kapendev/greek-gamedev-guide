@@ -1,30 +1,7 @@
 # Οδηγός δημιουργίας ψηφιακών παιχνιδιών
 
-Ένα ιδιαίτερο χαρακτηριστικό της δημιουργία ψηφιακών παιχνιδιών είναι η αρχική δυσκολία της.
-Η πρώτη επαφή με αυτόν τον χώρο προκαλεί συχνά σύγχυση λόγω του πλήθους των επιλογών που έχει κάποιος για να φτιάξει ένα παιχνίδι.
-Αυτός ο οδηγός προσπαθεί να κάνει αυτή την πρώτη επαφή ελαφρώς ευκολότερη.
-Ο οδηγός περιέχει εργαλεία που σχετίζονται με την ανάπτυξη ψηφιακών παιχνιδιών και αποσκοπεί στο να αποτελέσει ένα απλό σημείο εκκίνησης.
-d
-wad
-aw
-d
-wad
-
-w
-dw
-
-
-
-d
-w
-da
-d
-w
-d
-w
-wd
-w
-d
+Ο οδηγός περιέχει εργαλεία που σχετίζονται με την ανάπτυξη ψηφιακών παιχνιδιών
+και αποσκοπεί στο να αποτελέσει ένα απλό σημείο εκκίνησης.
 
 ## Μηχανές παιχνιδιών
 
@@ -84,7 +61,14 @@ d
 * [Allegro](https://liballeg.org/) - [Tutorial](https://youtu.be/9Miq1KpK4ec?si=dxoyh82BLt3uaP3_)
 * [SDL](https://www.libsdl.org/) - [Tutorial](https://youtu.be/QM4WW8hcsPU?si=K3DoVxDXth2Wh21e)
 
-## Ελληνικά game dev κανάλια στο YouTube
+## Πήγες έμπνευσης
+
+* [The Spriters Resource](https://www.spriters-resource.com/)
+* [The Models Resource](https://www.models-resource.com/)
+* [Game UI Database](https://www.gameuidatabase.com/)
+* [Interface In Game](https://interfaceingame.com/)
+
+## Ελληνικά gamedev κανάλια στο YouTube
 
 * [Kapendev](https://youtube.com/@Kapendev?si=FgvNxnieMahVozkv)
 * [A Greek Dev](https://www.youtube.com/@a_greek_dev)
