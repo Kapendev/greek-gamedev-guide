@@ -25,6 +25,7 @@
 * [Kenney](https://www.kenney.nl/)
 * [itch.io](https://itch.io/game-assets)
 * [DOVA-SYNDROME](https://dova-s.jp/EN/)
+* [Free Japanese Font](https://www.freejapanesefont.com/)
 
 ## Αρχεία διαμόρφωσης
 
